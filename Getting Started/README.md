@@ -8,18 +8,8 @@ Table of contents
 
 <!--ts-->
    * [Getting Started](/GettingStarted)
-   * [Usage](#usage)
+   * [Verilog Language](/Verilog%20Language)
       * [Basics](/Verilog%20Language/Basics)
-      * [Local files](#local-files)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
-      * [Auto insert and update TOC](#auto-insert-and-update-toc)
-      * [GitHub token](#github-token)
-      * [TOC generation with Github Actions](#toc-generation-with-github-actions)
-   * [Tests](#tests)
-   * [Dependency](#dependency)
-   * [Docker](#docker)
-     * [Local](#local)
-     * [Public](#public)
+      * [Vectors](/Verilog%20Language/Vectors)
+      * [Modules: Hierarchy](/Verilog%20Language/Module%20Hierarchy)
 <!--te-->
