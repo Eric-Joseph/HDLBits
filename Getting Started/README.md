@@ -7,9 +7,9 @@ Table of contents
 =================
 
 <!--ts-->
-   * [Getting Started](#GettingStarted)
+   * [Getting Started](/GettingStarted)
    * [Usage](#usage)
-      * [Basics](#Basics)
+      * [Basics](Verilog_Language/Basics)
       * [Local files](#local-files)
       * [Remote files](#remote-files)
       * [Multiple files](#multiple-files)
