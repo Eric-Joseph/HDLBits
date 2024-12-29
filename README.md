@@ -9,9 +9,9 @@ Table of Contents
 =================
 
 <!--ts-->
-   * [Getting Started](tree/main//GettingStarted)
-   * [Verilog Language](tree/main//Verilog%20Language)
-      * [Basics](tree/main//Verilog%20Language/Basics)
-      * [Vectors](tree/main//Verilog%20Language/Vectors)
-      * [Modules: Hierarchy](tree/main//Verilog%20Language/Module%20Hierarchy)
+   * [Getting Started](tree/main/GettingStarted)
+   * [Verilog Language](tree/main/Verilog%20Language)
+      * [Basics](tree/main/Verilog%20Language/Basics)
+      * [Vectors](tree/main/Verilog%20Language/Vectors)
+      * [Modules: Hierarchy](tree/main/Verilog%20Language/Module%20Hierarchy)
 <!--te-->
