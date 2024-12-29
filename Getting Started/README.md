@@ -7,9 +7,9 @@ Table of contents
 =================
 
 <!--ts-->
-   * [Installation](#installation)
+   * [Getting Started](#GettingStarted)
    * [Usage](#usage)
-      * [STDIN](#stdin)
+      * [Basics](#Basics)
       * [Local files](#local-files)
       * [Remote files](#remote-files)
       * [Multiple files](#multiple-files)
