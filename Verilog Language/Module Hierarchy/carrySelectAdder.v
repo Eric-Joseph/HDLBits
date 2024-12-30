@@ -17,7 +17,7 @@ module top_module(
     //Combinational Logic for multiplexer when cout1 is 0 or 1
     assign sum[31:16] = (cout1 == 0) ? sumSelect0 : sumSelect1;
     
-    /* Alternate combination logic for multiplexer (Always Block)
+	/* Alternate combination logic for multiplexer (Combinational Always Block)
         always @(*) begin
             case(cout1)
                 0 : sum[31:16] <= sumSelect0;
