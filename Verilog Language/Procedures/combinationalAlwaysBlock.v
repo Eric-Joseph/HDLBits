@@ -5,7 +5,7 @@ module top_module(
     output reg out_alwaysblock
 );
     
-    assign out_assign = a & b;            // Assign Statement
+  assign out_assign = a & b;            // Assign Statement
   always @(*) out_alwaysblock = a & b;  //Combinational Always Block
 
 endmodule
